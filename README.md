@@ -20,11 +20,3 @@ This repository serves as a practical demonstration of **Git best practices** an
 * **`feature/*` branches:** Branches created for specific, isolated pieces of work (e.g., `feature/add-ignore`).
 * **`README.md`:** This summary of the project and its goals.
 * **`TASK_LOG.md`:** The complete, step-by-step documentation of all Git commands used.
-
----
-
-## 📝 Next Steps
-
-1.  **Save** this content into your `README.md` file.
-2.  **Commit** the updated `README.md` on your `main` branch.
-3.  **Push** the final changes to GitHub.
